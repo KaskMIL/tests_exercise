@@ -1,0 +1,23 @@
+{
+  "name": "tests_exercise",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "task_1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaskMIL/tests_exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaskMIL/tests_exercise/issues"
+  },
+  "homepage": "https://github.com/KaskMIL/tests_exercise#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
