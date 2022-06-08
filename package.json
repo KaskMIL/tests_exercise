@@ -4,7 +4,8 @@
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "task_1.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "repository": {
     "type": "git",
